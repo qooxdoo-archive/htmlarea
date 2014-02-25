@@ -1,0 +1,6 @@
+# .gitignore template for skeleton-based apps
+/api/
+/test/
+/source/script/
+/node_modules
+.DS_Store

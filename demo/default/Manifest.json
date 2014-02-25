@@ -1,0 +1,33 @@
+{
+  "info" :
+  {
+    "name" : "htmlarea Demo",
+
+    "summary" : "htmlarea Demo",
+    "description" : "This is a demo for htmlarea widget.",
+
+    "homepage" : "http://demo.qooxdoo.org/contrib/htmlarea",
+
+    "license" : "LGPL/EPL",
+    "authors" :
+    [
+      {
+        "name" : "Alexander Steitz (asteitz)",
+        "email" : "alexander.steitz@1und1.de"
+      }
+    ],
+
+    "version" : "master",
+    "qooxdoo-versions": ["3.5"]
+  },
+
+  "provides" :
+  {
+    "namespace"   : "htmlarea.demo",
+    "encoding"    : "utf-8",
+    "class"       : "source/class",
+    "resource"    : "source/resource",
+    "translation" : "source/translation",
+    "type"        : "application"
+  }
+}

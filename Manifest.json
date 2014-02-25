@@ -1,0 +1,38 @@
+{
+  "info" :
+  {
+    "name" : "htmlarea",
+    "category" : [],
+
+    "summary" : "htmlarea Contribution",
+    "description" : "This is a skeleton for a qooxdoo contribution.",
+
+    "homepage" : "http://contrib.qooxdoo.org/project/htmlarea",
+
+    "license" : "LGPL/EPL",
+    "authors" :
+    [
+      {
+        "name" : "Alexander Steitz (asteitz)",
+        "email" : "alexander.steitz@1und1.de"
+      }
+    ],
+
+    "version" : "master",
+    "qooxdoo-versions": ["3.5"],
+
+    "download" : "",
+    "checksum" : ""
+  },
+
+  "provides" :
+  {
+    "namespace"   : "htmlarea",
+    "encoding"    : "utf-8",
+    "class"       : "source/class",
+    "resource"    : "source/resource",
+    "translation" : "source/translation",
+    "type"        : "contribution"
+  }
+}
+
