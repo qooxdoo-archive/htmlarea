@@ -2,12 +2,12 @@
   "info" :
   {
     "name" : "htmlarea",
-    "category" : [],
+    "category" : ["widget"],
 
     "summary" : "htmlarea Contribution",
     "description" : "This is a skeleton for a qooxdoo contribution.",
 
-    "homepage" : "http://contrib.qooxdoo.org/project/htmlarea",
+    "homepage" : "https://github.com/qooxdoo/htmlarea/",
 
     "license" : "LGPL/EPL",
     "authors" :
@@ -21,7 +21,7 @@
     "version" : "master",
     "qooxdoo-versions": ["3.5"],
 
-    "download" : "",
+    "download" : "https://github.com/qooxdoo/htmlarea/archive/master.zip",
     "checksum" : ""
   },
 
